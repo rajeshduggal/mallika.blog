@@ -3,20 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://mallika.blog/posts/</loc>
-    <lastmod>2019-01-26T14:09:43-05:00</lastmod>
-    <priority>0</priority>
+    <loc>http://mallika.blog/posts/2019-christmas-list/</loc>
+    <lastmod>2019-12-02T17:19:58-05:00</lastmod>
   </url>
   
   <url>
     <loc>http://mallika.blog/posts/the-girl-who-was-scared-of-nothing/</loc>
     <lastmod>2019-01-26T14:09:43-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://mallika.blog/</loc>
-    <lastmod>2019-01-26T14:09:43-05:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -45,7 +38,19 @@
   </url>
   
   <url>
+    <loc>http://mallika.blog/posts/</loc>
+    <lastmod>2019-12-02T17:19:58-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://mallika.blog/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://mallika.blog/</loc>
+    <lastmod>2019-12-02T17:19:58-05:00</lastmod>
     <priority>0</priority>
   </url>
   
