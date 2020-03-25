@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://mallika.blog/posts/ancient-civilizations/</loc>
+    <lastmod>2020-03-24T18:12:12-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://mallika.blog/posts/2019-christmas-list/</loc>
     <lastmod>2019-12-02T17:19:58-05:00</lastmod>
   </url>
@@ -39,7 +44,7 @@
   
   <url>
     <loc>http://mallika.blog/posts/</loc>
-    <lastmod>2019-12-02T17:19:58-05:00</lastmod>
+    <lastmod>2020-03-24T18:12:12-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -50,7 +55,7 @@
   
   <url>
     <loc>http://mallika.blog/</loc>
-    <lastmod>2019-12-02T17:19:58-05:00</lastmod>
+    <lastmod>2020-03-24T18:12:12-04:00</lastmod>
     <priority>0</priority>
   </url>
   
