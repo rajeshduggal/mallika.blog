@@ -10,7 +10,7 @@ draft: true
 * Slaves and peasants could starve to death in the spring due to lack of food.
 * The First Nations were split into six geographical groups.
 * The Woodland First Nations moved around a lot due to lack of food.
-* The Iroque First Nations were very good farmers so they did not need to move.
+* The Iroquois First Nations were very good farmers so they did not need to move.
 
 ## Resources
 * [BBC Everyday life in the Middle Ages](https://www.bbc.co.uk/bitesize/guides/zm4mn39/revision/6)
