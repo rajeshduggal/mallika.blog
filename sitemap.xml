@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://mallika.blog/posts/rude-ramsay/</loc>
+    <lastmod>2020-03-25T18:34:21-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://mallika.blog/posts/ancient-civilizations/</loc>
     <lastmod>2020-03-24T18:12:12-04:00</lastmod>
   </url>
@@ -44,7 +49,7 @@
   
   <url>
     <loc>http://mallika.blog/posts/</loc>
-    <lastmod>2020-03-24T18:12:12-04:00</lastmod>
+    <lastmod>2020-03-25T18:34:21-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -55,7 +60,7 @@
   
   <url>
     <loc>http://mallika.blog/</loc>
-    <lastmod>2020-03-24T18:12:12-04:00</lastmod>
+    <lastmod>2020-03-25T18:34:21-04:00</lastmod>
     <priority>0</priority>
   </url>
   
