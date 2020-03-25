@@ -1,7 +1,6 @@
 ---
 title: "Ancient Civilizations"
 date: 2020-03-24T18:12:12-04:00
-draft: true
 ---
 
 * In ancient times what you wore depended on where you were. Say for example, if you lived in medieval England you would probably have worn a sleeved tunic. But if you lived in ancient Rome you would have worn a sleeveless toga.
