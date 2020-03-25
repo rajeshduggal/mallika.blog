@@ -7,9 +7,16 @@ date: 2020-03-24T18:12:12-04:00
 * Medieval England was based on a feudal society. 
 * The slaves in medieval England and ancient Rome would do what the landlords ordered to do to earn money.
 * Slaves and peasants could starve to death in the spring due to lack of food.
-* The First Nations were split into six geographical groups.
+* The First Nations were split into six geographical groups: The Woodland, Iroquoian, Plains, Palteau, Pacific Coast, and the First Nations of the Mackenzie and Yukon River Basins.
 * The Woodland First Nations moved around a lot due to lack of food.
 * The Iroquois First Nations were very good farmers so they did not need to move.
+* First Nations in the north ate game meat since it was so easy to find.
+* Because the Plains First Nations ate a lot of buffalo their hunting and skills are very different.
+* 1 bull gives you 700 kilo grams of meat to eat.
+* Communal hunts took place in June, July, and August.
+* The Plateau First Nations ate salmon, roots, and berries.
+* The Pacific First Nations used fish oil as a condiment.
+* Women prepared a high protein powder called pemican.
 
 ## Resources
 * [BBC Everyday life in the Middle Ages](https://www.bbc.co.uk/bitesize/guides/zm4mn39/revision/6)
