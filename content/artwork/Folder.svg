@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="793.70081"
+   height="1122.5197"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg873"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="Folder.svg">
+  <defs
+     id="defs867" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1"
+     inkscape:cx="-86.032564"
+     inkscape:cy="554.47605"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:showpageshadow="false"
+     showborder="false"
+     units="px"
+     inkscape:snap-smooth-nodes="false"
+     inkscape:snap-intersection-paths="false"
+     inkscape:object-paths="false"
+     inkscape:snap-midpoints="false"
+     inkscape:object-nodes="false"
+     inkscape:window-width="1600"
+     inkscape:window-height="1137"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata870">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="path1421"
+       d="m -98.05987,80.618535 h 16.593288 l 7.597454,-10.054167 h 34.584954 l 7.597455,10.054167 H -15.093431 1.4998565 18.093144 34.686432 c 0.03923,0 0.07664,0.004 0.112201,0.01166 0.03556,0.0076 0.06925,0.0189 0.10103,0.03338 0.03178,0.01448 0.06164,0.03218 0.08953,0.05269 0.02789,0.02051 0.05381,0.04384 0.0777,0.06959 0.02389,0.02574 0.04576,0.0539 0.06555,0.08407 0.01979,0.03017 0.03749,0.06236 0.05306,0.09615 0.01557,0.03379 0.029,0.0692 0.04025,0.105813 0.01125,0.03661 0.0203,0.07444 0.02711,0.113067 L 50.86328,169.74584 c 0.05447,0.30905 -0.252628,0.56644 -0.566432,0.56644 H -82.449453 c -0.313803,0 -0.511956,-0.25739 -0.566431,-0.56644 L -98.626301,81.184967 c -0.0068,-0.03863 -0.008,-0.07645 -0.0042,-0.113066 0.0038,-0.03661 0.01255,-0.07202 0.02557,-0.105814 0.01302,-0.03379 0.0303,-0.06598 0.05115,-0.09615 0.02085,-0.03017 0.04527,-0.05833 0.07257,-0.08407 0.0273,-0.02575 0.05747,-0.04907 0.08983,-0.06959 0.03236,-0.02051 0.0669,-0.03821 0.102936,-0.05269 0.03603,-0.01448 0.07356,-0.02574 0.111881,-0.03338 0.03832,-0.0076 0.07744,-0.01166 0.116669,-0.01166 z"
+       style="opacity:1;fill:#ed9000;fill-opacity:1;stroke:none;stroke-width:13.77744389;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccssssssssssssssssssssssc" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path1429"
+       d="m -90.651536,86.968535 140.948385,0 c 0.313804,0 0.566432,0.261771 0.566432,0.586928 v 82.169887 c 0,0.32517 -0.252628,0.58694 -0.566432,0.58694 H -82.449453 c -0.313803,0 -0.534133,-0.26338 -0.566431,-0.58694 l -8.202083,-82.169887 c -0.0323,-0.323549 0.252628,-0.586928 0.566431,-0.586928 z"
+       style="opacity:0.453;fill:#000000;fill-opacity:1;stroke:none;stroke-width:14.02449226;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       sodipodi:nodetypes="sssssssss" />
+    <path
+       id="path1423"
+       d="M -79.061363,80.089368 H 41.617093 c 0.285276,0 0.514938,0.261771 0.514938,0.586928 v 82.169884 c 0,0.32517 -0.229662,0.58694 -0.514938,0.58694 H -79.061363 c -0.285276,0 -0.514938,-0.26177 -0.514938,-0.58694 V 80.676296 c 0,-0.325157 0.229662,-0.586928 0.514938,-0.586928 z"
+       style="opacity:1;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:13.37182903;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M -67.400598,82.470618 H 53.277858 c 0.285276,0 0.514938,0.261771 0.514938,0.586928 v 82.169884 c 0,0.32517 -0.229662,0.58694 -0.514938,0.58694 H -67.400598 c -0.285276,0 -0.514938,-0.26177 -0.514938,-0.58694 V 83.057546 c 0,-0.325157 0.229662,-0.586928 0.514938,-0.586928 z"
+       id="path1425" />
+    <path
+       style="opacity:1;fill:#ffcc00;fill-opacity:1;stroke:none;stroke-width:14.02449226;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M -82.449453,86.968535 H 50.296849 c 0.313804,0 0.566432,0.261771 0.566432,0.586928 v 82.169887 c 0,0.32517 -0.252628,0.58694 -0.566432,0.58694 H -82.449453 c -0.313803,0 -0.566431,-0.26177 -0.566431,-0.58694 V 87.555463 c 0,-0.325157 0.252628,-0.586928 0.566431,-0.586928 z"
+       id="rect1418"
+       inkscape:connector-curvature="0" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot1431"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Bernard MT Condensed';-inkscape-font-specification:'Bernard MT Condensed, ';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.19783477,0,0,0.1669497,11.331759,-65.563295)"><flowRegion
+         id="flowRegion1433"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Bernard MT Condensed';-inkscape-font-specification:'Bernard MT Condensed, '"><rect
+           id="rect1435"
+           width="393"
+           height="89"
+           x="-400"
+           y="819.51965"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Bernard MT Condensed';-inkscape-font-specification:'Bernard MT Condensed, '" /></flowRegion><flowPara
+         id="flowPara1437">Mallika</flowPara></flowRoot>  </g>
+</svg>
