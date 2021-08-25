@@ -1,6 +1,9 @@
+title = "mallika.blog"
 baseURL = "http://mallika.blog/"
 languageCode = "en-us"
-title = "mallika.blog"
 theme = "ananke"
 featured_image = "/images/gohugo-default-sample-hero-image.jpg"
+resourceDir = "../resources"
+
+DefaultContentLanguage = "en"
 googleAnalytics = "UA-185923171-1"
