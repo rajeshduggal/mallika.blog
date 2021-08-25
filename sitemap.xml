@@ -1,19 +1,24 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://mallika.blog/posts/2020-christmas-list/</loc>
-    <lastmod>2020-11-02T17:19:58-05:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://mallika.blog/</loc>
-    <lastmod>2020-11-02T17:19:58-05:00</lastmod>
+    <lastmod>2021-08-21T18:45:18-05:00</lastmod>
   </url>
   
   <url>
     <loc>http://mallika.blog/posts/</loc>
+    <lastmod>2021-08-21T18:45:18-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://mallika.blog/posts/watermelon-sugar/</loc>
+    <lastmod>2021-08-21T18:45:18-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://mallika.blog/posts/2020-christmas-list/</loc>
     <lastmod>2020-11-02T17:19:58-05:00</lastmod>
   </url>
   
